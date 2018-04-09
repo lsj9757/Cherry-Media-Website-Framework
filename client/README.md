@@ -1,6 +1,6 @@
 # cherry
 
-> fw
+> 基本架构
 
 ## Build Setup
 
